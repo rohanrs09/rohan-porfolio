@@ -383,7 +383,6 @@ img {
 /*==================== ABOUT ====================*/
 .about__img {
   width: 200px;
-  height: 400px;
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
